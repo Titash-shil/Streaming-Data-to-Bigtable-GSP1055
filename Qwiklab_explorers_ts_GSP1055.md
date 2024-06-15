@@ -47,7 +47,7 @@ gcloud compute ssh training-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --qui
 
 ```
 
-## Once you get score on Task 1-4 then only run this command, otherwise you won't get full score on that lab totally...
+## Once you get score on Task 1-3 then only run this command, otherwise you won't get full score on that lab totally...
 
 ```
 echo "Listing all Dataflow jobs:"
